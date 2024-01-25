@@ -1,0 +1,17 @@
+{
+  "name": "njsproject",
+  "version": "1.0.0",
+  "description": "start of the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "new",
+    "beginning",
+    "noodejs",
+    "project"
+  ],
+  "author": "Alberto Gomez",
+  "license": "ISC"
+}
